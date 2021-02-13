@@ -1,5 +1,5 @@
 const endpoint =
-  "https://gist.githubusercontent.com/kosang02/2c5a6e14277284566efc9ec07df13a09/raw/1fcbe8a1f091f300c8d700e782c50b2772a49b54/suck.json";
+  "https://gist.githubusercontent.com/kosang02/2c5a6e14277284566efc9ec07df13a09/raw/a4be74f82442041896070455d7c721121b33a831/suck.json";
 
 const cities = [];
 
@@ -9,7 +9,7 @@ fetch(endpoint)
 
 findMatches = (wordToMatch, cities) =>
   cities.filter(place => {
-    // 이 곳에서 검색어와 매치 되는 지를 확인해야 합니다
+    
     const regex = new RegExp(wordToMatch, "gi");
     return place.city.match(regex) || place.state.match(regex);
   });

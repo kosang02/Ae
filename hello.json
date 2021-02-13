@@ -829,18 +829,527 @@
         "rank": "92",
         "state": "파도 비틀기 효과"
     },
-    // 1월 30일 토요일 왜곡효과 타이핑 끝 타사효과부터 다시하면 됨
+   
+    {
+        "city": "CC Bend It effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "93",
+        "state": "CC Bend It 효과"
+    },
+    {
+        "city": "CC Bender effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "94",
+        "state": "CC Bender 효과"
+    },
+    {
+        "city": "CC Blobbylize effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "95",
+        "state": "CC Blobbylize 효과"
+    },
+    {
+        "city": "CC Flo Motion effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "96",
+        "state": "CC Flo Motion 효과"
+    },
+    {
+        "city": "CC Griddler effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "97",
+        "state": "CC Griddler 효과"
+    },
+    {
+        "city": "CC Lens effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "98",
+        "state": "CC Lens 효과"
+    },
+    {
+        "city": "CC Page Turn effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "99",
+        "state": "CC Page Turn 효과"
+    },
+    {
+        "city": "CC Power Pin effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "100",
+        "state": "CC Power Pin 효과"
+    },
+    {
+        "city": "CC Ripple Pulse effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "101",
+        "state": "CC Ripple Pulse 효과"
+    },
+    {
+        "city": "CC Slant effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "102",
+        "state": "CC Slant 효과"
+    },
+    {
+        "city": "CC Smear effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "103",
+        "state": "CC Smear 효과"
+    },
+    {
+        "city": "CC Split effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "104",
+        "state": "CC Split 효과"
+    },
+    {
+        "city": "CC Split 2 effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "105",
+        "state": "CC Split 2 효과"
+    },
+    {
+        "city": "CC Tiler effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "106",
+        "state": "CC Tiler 효과"
+    },
+    {
+        "city": "Angle Control effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "표현식 컨트롤 효과",
+        "rank": "107",
+        "state": "각도 컨트롤 효과"
+    },
+    {
+        "city": "Checkbox Control effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "표현식 컨트롤 효과",
+        "rank": "108",
+        "state": "확인란 컨트롤 효과"
+    },
+    {
+        "city": "Color Control effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "표현식 컨트롤 효과",
+        "rank": "109",
+        "state": "색상 컨트롤 효과"
+    },
+    {
+        "city": "Layer Control effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "표현식 컨트롤 효과",
+        "rank": "110",
+        "state": "레이어 컨트롤 효과"
+    },
+    {
+        "city": "Point Control effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "표현식 컨트롤 효과",
+        "rank": "111",
+        "state": "지점 컨트롤 효과"
+    },
+    {
+        "city": "Slider Control effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "표현식 컨트롤 효과",
+        "rank": "112",
+        "state": "슬라이더 컨트롤 효과"
+    },
+    {
+        "city": "4-Color Gradient effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "113",
+        "state": "4 색상 그라디언트 효과"
+    },
+    {
+        "city": "Advanced Lightning effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "114",
+        "state": "고급 조명 효과"
+    },
+
+    {
+        "city": "Audio Spectrum effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "115",
+        "state": "오디오 스펙트럼 효과"
+    },
+
+    {
+        "city": "Audio Waveform effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "116",
+        "state": "오디오 파형 효과"
+    },
+
+    {
+        "city": "Beam effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "117",
+        "state": "빔 효과"
+    },
+
+    {
+        "city": "Cell Pattern effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "118",
+        "state": "셀 패턴 효과"
+    },
+
+    {
+        "city": "Checkerboard effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "119",
+        "state": "바둑판 효과"
+    },
+
+    {
+        "city": "Circle effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "120",
+        "state": "원 효과"
+    },
+    {
+        "city": "Ellipse effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "121",
+        "state": "타원 효과"
+    },
+    {
+        "city": "Eyedropper Fill effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "122",
+        "state": "스포이드 칠 효과"
+    },
+    {
+        "city": "Fill effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "123",
+        "state": "칠 효과"
+    },
+    {
+        "city": "Fractal effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "124",
+        "state": "프랙탈 효과"
+    },
+    {
+        "city": "Grid effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "125",
+        "state": "격자 효과"
+    },
+    {
+        "city": "Lens Flare effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "126",
+        "state": "렌즈 플레어 효과"
+    },
+    {
+        "city": "Paint Bucket effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "127",
+        "state": "페인트 통 효과"
+    },
+    {
+        "city": "Radio Waves effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "128",
+        "state": "전파 효과"
+    },
+    {
+        "city": "Ramp effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "129",
+        "state": "경사효과"
+    },
+    {
+        "city": "Scribble effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "130",
+        "state": "자유롭게 그리기 효과"
+    },
+    {
+        "city": "Stroke effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "131",
+        "state": "선 효과"
+    },
+    {
+        "city": "Vegas effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "132",
+        "state": "베가스 효과"
+    },
+    {
+        "city": "Write-on effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "생성효과",
+        "rank": "133",
+        "state": "선 그리기 효과"
+    },
+    {
+        "city": "CC Glue Gun effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "134",
+        "state": "CC Glue Gun 효과"
+    },
+    {
+        "city": "CC Light Burst 2.5 effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "135",
+        "state": "CC Light Burst 2.5 효과"
+    },
+    {
+        "city": "CC Light Rays effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "136",
+        "state": "CC Light Rays 효과"
+    },
+    {
+        "city": "CC Light Sweep effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "137",
+        "state": "CC Light Sweep 효과"
+    },
+    {
+        "city": "CC Threads effect (CS6)",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "타사효과",
+        "rank": "138",
+        "state": "CC Threads 효과 (CS6)"
+    },
+    {
+        "city": "Color Difference Key effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "139",
+        "state": "색상 차이 키 효과"
+    },
+    {
+        "city": "Color Key effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "140",
+        "state": "색상 키 효과"
+    },
+    {
+        "city": "Color Range effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "141",
+        "state": "색상 범위 효과"
+    },
+    {
+        "city": "Difference Matte effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "142",
+        "state": "차이 매트 효과"
+    },
+    {
+        "city": "Extract effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "143",
+        "state": "추출 효과"
+    },
+    {
+        "city": "Inner/Outer Key effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "144",
+        "state": "내부/외부 키 효과"
+    },
+    {
+        "city": "Linear Color Key effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "145",
+        "state": "선형 색상 키 효과"
+    },
+    {
+        "city": "Luma Key effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "146",
+        "state": "루마 키 효과"
+    },
+    {
+        "city": "Spill Suppressor effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "147",
+        "state": "번짐 억제 효과"
+    },
+    {
+        "city": "Advanced Spill Suppressor effect",
+        "growth_from_2000_to_2013": "4.8%",
+        "latitude": 40.7127837,
+        "longitude": -74.0059413,
+        "population": "키잉 효과",
+        "rank": "148",
+        "state": "고급 번짐 억제 효과"
+    },
     {
         "city": "",
         "growth_from_2000_to_2013": "4.8%",
         "latitude": 40.7127837,
         "longitude": -74.0059413,
-        "population": "타사효과",
+        "population": "키잉 효과",
         "rank": "",
         "state": ""
-    },
-    
-
+    }
+  
 
 
 
